@@ -1,20 +1,16 @@
 +++
-Title = "Trevor Hess"
+Title = "Karl Ho"
 date = "2016-12-08T20:55:58-06:00"
-Twitter = "trevorghess"
+Twitter = "karlho"
 Website = ""
 Type = "host"
 Facebook = ""
 Linkedin = ""
 Pronouns = ""
 GitHub = "trevorghess"
-Thumbnail = "https://www.arresteddevops.com/img/trevor.png"
+Thumbnail = "https://karlho.com/author/admin/avatar_hu700675a3593f2196f90a24bec185a055_66191_250x250_fill_q90_lanczos_center.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
 +++
-Trevor Hess is a Partner Solution Architect focusing on Microsoft at [Chef Software](https://www.chef.io/), working with Microsoft to ensure that Chef is delighting customers and prospects on Windows and the many parts inside Azure! 
-
-Coming from a background in .NET Software Development and consulting, he has worked with several large multinational organizations to help kick start their journey to the cloud and the world of DevOps practices and principals. He is excited to engage in new experiences, and learning opportunities. 
-
-Trevor enjoys having hearty discussions about DevOps as well organizational change and transformation.
+Karl Ho is cohost of DA Colloquium
