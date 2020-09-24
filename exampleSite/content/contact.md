@@ -5,6 +5,9 @@ title = "contact"
 +++
 
 Email: dacolloquium@gmail.com
+
 Twitter: @DAColloquium
+
 Website: dacolloquium.com
+
 GitHub: dacolloquium
