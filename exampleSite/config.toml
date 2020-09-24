@@ -72,8 +72,8 @@ enable_jumbo = "true"
 # mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Data Analytics Colloquium is a public forum featuring international top-notch data scientists and latest cutting data science projects.  Members of the colloquium will engage in conversation with speakers and replication of data methods introduced employing real data.  The colloquium will be delivered using online learning platform and repository system for code and data sharing.  The weekly webinars will be co-hosted by NCHU and UTD and participated by students in Taiwan and Texas with real time access and archived events will be free and available to the public.   Hosting faculty members in two universities will invite scholars from universities in each country to participate as discussants."
-media_prefix = ""
-disqusShortname = ""
+# media_prefix = ""
+# disqusShortname = ""
   [params.feed]
     copyright = "Copyright 2020 Data Analytics Colloquium" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "The public data science forum for social and policy sciences" #no markdown or HTML
