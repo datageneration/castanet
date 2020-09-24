@@ -13,4 +13,5 @@ Pinterest = ""
 Instagram = ""
 YouTube = ""
 +++
+
 Karl Ho is cohost of Data Analytics Colloquium.
