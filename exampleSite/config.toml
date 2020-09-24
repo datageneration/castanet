@@ -1,6 +1,6 @@
-baseurl = "https://example.com/"
+baseurl = "https://dacolloquium.com/"
 languageCode = "en-us"
-title = "HugoCast"
+title = "DAColloquium"
 theme = "castanet"
 googleAnalytics = ""
 themesdir = "../.."
@@ -71,17 +71,17 @@ soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:20314
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."
-media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+description = "Data Analytics Colloquium is a public forum featuring international top-notch data scientists and latest cutting data science projects.  Members of the colloquium will engage in conversation with speakers and replication of data methods introduced employing real data.  The colloquium will be delivered using online learning platform and repository system for code and data sharing.  The weekly webinars will be co-hosted by NCHU and UTD and participated by students in Taiwan and Texas with real time access and archived events will be free and available to the public.   Hosting faculty members in two universities will invite scholars from universities in each country to participate as discussants."
+media_prefix = ""
 disqusShortname = ""
   [params.feed]
-    copyright = "Copyright 2016 Matt Stratton" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "The best podcast ever" #no markdown or HTML
-    itunes_author = "Matt Stratton" #no markdown or HTML
-    itunes_summary = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet." # Limited to 4000 characters or less, plain text, no HTML
-    itunes_owner_name = "Matt Stratton"
-    itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
-    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    copyright = "Copyright 2020 Data Analytics Colloquium" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "The public data science forum for social and policy sciences" #no markdown or HTML
+    itunes_author = "Karl Ho and CH Pan" #no markdown or HTML
+    itunes_summary = "Data Analytics Colloquium is a public forum featuring international top-notch data scientists and latest cutting data science projects.  Members of the colloquium will engage in conversation with speakers and replication of data methods introduced employing real data.  The colloquium will be delivered using online learning platform and repository system for code and data sharing.  The weekly webinars will be co-hosted by NCHU and UTD and participated by students in Taiwan and Texas with real time access and archived events will be free and available to the public.   Hosting faculty members in two universities will invite scholars from universities in each country to participate as discussants." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Karl Ho"
+    itunes_owner_email = "dacolloquium@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
+    itunes_image = "" #fqdn to the image art for your podcast
     itunes_top_category = "Technology"
     itunes_first_sub_category = "Software How-To"
     itunes_second_sub_category = "Tech News"
@@ -134,18 +134,13 @@ disqusShortname = ""
         instagram = ""
         youtube = ""
         twitch = ""
-    [params.authors.Trevor]
-			name = "Trevor Hess"
+    [params.authors.Peter]
+			name = "Peter CH Pan"
 			thumbnail = "https://www.arresteddevops.com/img/trevor.png"
 			bio = ""
-				[params.authors.Trevor.social]
-					twitter = "trevorghess"
-    [params.authors.Bridget]
-      name = "Bridget Kromhout"
-      thumbnail = "https://www.arresteddevops.com/img/Bridget.png"
-      bio = ""
-      [params.authors.Bridget.social]
-        twitter = "bridgetkromhout"
+				[params.authors.Peter.social]
+					twitter = "chpan"
+    
 
     [params.links]
       [params.links.ado]
