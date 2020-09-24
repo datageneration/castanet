@@ -106,34 +106,34 @@ disqusShortname = ""
     subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
-    github = "arresteddevops"
-    gitlab = "mattstratton"
-    facebook = "Arresteddevops"
-    facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
-    twitter = "arresteddevops"
-    twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    googleplus = "ArrestedDevOps"
-    pinterest = "nozzleio"
-    instagram = "nozzleio"
-    youtube = "arresteddevops"
-    linkedin = "mattstratton"
-    twitch = "mattstratton"
+    github = "dacolloquium"
+    gitlab = ""
+    facebook = ""
+    facebook_admin = ["",""] # This needs to be one or more page admins to get domain insights
+    twitter = "dacolloquium"
+    twitter_domain = "dacolloquium.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    googleplus = ""
+    pinterest = ""
+    instagram = ""
+    youtube = "dacolloquium"
+    linkedin = "dacolloquium"
+    twitch = ""
 
   [params.authors]
-    [params.authors.Matt]
-      name	= "Matt Stratton"
-      thumbnail = "img/host/matt.png"
-      bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
-      [params.authors.Matt.social]
-        github = "mattstratton"
-        facebook = "matt.stratton"
-        twitter = "mattstratton"
-        linkedin = "mattstratton"
-        homepage = "https://www.mattstratton.io"
-        pinterest = "mattstratton"
-        instagram = "instagram"
-        youtube = "mattstratton"
-        twitch = "mattstratton"
+    [params.authors.Karl]
+      name	= "Karl Ho"
+      thumbnail = "img/host/karl.png"
+      bio = "Karl Ho is a political data scientist working at the intersection of data science and social science. His research interests span both domains of data analytics and political studies, with a regional focus on East Asia. The unifying theme of his research is to use fast growing data science methods, data-oriented research design and statistical computing to decipher and prescribe social and political problems. Areas of substantive topics include democratization, political economy, public policy and human rights. He pursues both data analytics and data modeling in building public goods, aiming at improving policies, governance and representation."
+      [params.authors.Karl.social]
+        github = "karlho"
+        facebook = "karlho"
+        twitter = "karlho"
+        linkedin = "karlho"
+        homepage = "https://karlho.com"
+        pinterest = ""
+        instagram = ""
+        youtube = ""
+        twitch = ""
     [params.authors.Trevor]
 			name = "Trevor Hess"
 			thumbnail = "https://www.arresteddevops.com/img/trevor.png"
