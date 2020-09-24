@@ -107,17 +107,17 @@ description = "Data Analytics Colloquium is a public forum featuring internation
 
   [params.social]
     github = "dacolloquium"
-    gitlab = ""
-    facebook = ""
-    facebook_admin = ["",""] # This needs to be one or more page admins to get domain insights
+#    gitlab = ""
+#    facebook = ""
+#    facebook_admin = ["",""] # This needs to be one or more page admins to get domain insights
     twitter = "dacolloquium"
     twitter_domain = "dacolloquium.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    googleplus = ""
-    pinterest = ""
-    instagram = ""
+#    googleplus = ""
+#    pinterest = ""
+#    instagram = ""
     youtube = "dacolloquium"
     linkedin = "dacolloquium"
-    twitch = ""
+#    twitch = ""
 
   [params.authors]
     [params.authors.Karl]
