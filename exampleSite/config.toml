@@ -135,7 +135,7 @@ description = "Data Analytics Colloquium is a public forum featuring internation
         youtube = ""
         twitch = ""
     [params.authors.Peter]
-			name = "Peter CH Pan"
+			name = "Peter Pan"
 			thumbnail = "img/host/chpan.jpg"
 			bio = ""
 				[params.authors.Peter.social]
