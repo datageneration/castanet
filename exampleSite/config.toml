@@ -41,11 +41,11 @@ paginate = "9"
     identifier = "resources"
     url = "#!"
 
-[[Menu.Main]]
-    name = "Books"
-    identifier = "books"
-    url = "/books"
-    parent = "resources"
+# [[Menu.Main]]
+#    name = "Books"
+#    identifier = "books"
+#    url = "/books"
+#    parent = "resources"
 [[Menu.Main]]
     name = "Podcasts"
     identifier = "podcasts"
@@ -142,13 +142,13 @@ description = "Data Analytics Colloquium is a public forum featuring internation
 					twitter = "chpan"
     
 
-    [params.links]
-      [params.links.ado]
-        name = "Arrested DevOps"
-        url = "https://www.arresteddevops.com"
-      [params.links.ffs]
-        name = "Food Fight Show"
-        url = "https://foodfightshow.org"
-      [params.links.sdt]
-        name = "Software Defined Talk"
-        url = "https://cote.io/podcasts/sdt/"
+   # [params.links]
+   #   [params.links.ado]
+   #     name = "Arrested DevOps"
+   #     url = "https://www.arresteddevops.com"
+   #   [params.links.ffs]
+   #     name = "Food Fight Show"
+   #     url = "https://foodfightshow.org"
+   #   [params.links.sdt]
+   #     name = "Software Defined Talk"
+   #     url = "https://cote.io/podcasts/sdt/"
