@@ -1,6 +1,6 @@
 +++
 Title = "Christopher Achen"
-date = "2017-06-10T09:12:42-05:00"
+date = "2020-10-23T09:12:42-05:00"
 Twitter = ""
 Website = ""
 Type = "guest"
@@ -14,4 +14,4 @@ Instagram = ""
 YouTube = ""
 +++
 
-Talks on 10/23
+Topic: Studying Elections in an Era of Unrepresentative Surveys
