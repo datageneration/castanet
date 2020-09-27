@@ -74,18 +74,18 @@ enable_jumbo = "true"
 description = "Data Analytics Colloquium is a public forum featuring international top-notch data scientists and latest cutting data science projects.  Members of the colloquium will engage in conversation with speakers and replication of data methods introduced employing real data.  The colloquium will be delivered using online learning platform and repository system for code and data sharing.  The weekly webinars will be co-hosted by NCHU and UTD and participated by students in Taiwan and Texas with real time access and archived events will be free and available to the public.   Hosting faculty members in two universities will invite scholars from universities in each country to participate as discussants."
 # media_prefix = ""
 # disqusShortname = ""
-  [params.feed]
-    copyright = "Copyright 2020 Data Analytics Colloquium" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "The public data science forum for social and policy sciences" #no markdown or HTML
-    itunes_author = "Karl Ho and CH Pan" #no markdown or HTML
-    itunes_summary = "Data Analytics Colloquium is a public forum featuring international top-notch data scientists and latest cutting data science projects.  Members of the colloquium will engage in conversation with speakers and replication of data methods introduced employing real data.  The colloquium will be delivered using online learning platform and repository system for code and data sharing.  The weekly webinars will be co-hosted by NCHU and UTD and participated by students in Taiwan and Texas with real time access and archived events will be free and available to the public.   Hosting faculty members in two universities will invite scholars from universities in each country to participate as discussants." # Limited to 4000 characters or less, plain text, no HTML
-    itunes_owner_name = "Karl Ho"
-    itunes_owner_email = "dacolloquium@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
-    itunes_image = "" #fqdn to the image art for your podcast
-    itunes_top_category = "Technology"
-    itunes_first_sub_category = "Software How-To"
-    itunes_second_sub_category = "Tech News"
-    language = "en-us"
+#  [params.feed]
+#    copyright = "Copyright 2020 Data Analytics Colloquium" #do not use markdown in this field; it is used in the feed
+#    itunes_subtitle = "The public data science forum for social and policy sciences" #no markdown or HTML
+#    itunes_author = "Karl Ho and CH Pan" #no markdown or HTML
+#    itunes_summary = "Data Analytics Colloquium is a public forum featuring international top-notch data scientists and latest cutting data science projects.  Members of the colloquium will engage in conversation with speakers and replication of data methods introduced employing real data.  The colloquium will be delivered using online learning platform and repository system for code and data sharing.  The weekly webinars will be co-hosted by NCHU and UTD and participated by students in Taiwan and Texas with real time access and archived events will be free and available to the public.   Hosting faculty members in two universities will invite scholars from universities in each country to participate as discussants." # Limited to 4000 characters or less, plain text, no HTML
+#    itunes_owner_name = "Karl Ho"
+#    itunes_owner_email = "dacolloquium@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
+#    itunes_image = "" #fqdn to the image art for your podcast
+#    itunes_top_category = "Technology"
+#    itunes_first_sub_category = "Software How-To"
+#    itunes_second_sub_category = "Tech News"
+#    language = "en-us"
 
 #  [params.realfavicongenerator] # https://realfavicongenerator.net/
 #    mask_icon_color="#5bbad5"
