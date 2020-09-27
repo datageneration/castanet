@@ -15,3 +15,5 @@ YouTube = ""
 +++
 
 Topic: Studying Elections in an Era of Unrepresentative Surveys
+Date: October 23, 2020
+Time: 18:00 - 20:00 (Central time)
