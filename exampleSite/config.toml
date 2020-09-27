@@ -10,7 +10,7 @@ paginate = "9"
 [permalinks]
 	# page = "/:filename/"
 	about = "/:filename/"
-	episode = "/:filename/"
+	seminar = "/:filename/"
 
 
 # The theme supports menus with up to one submenu per menu item
@@ -47,8 +47,8 @@ paginate = "9"
 #    url = "/books"
 #    parent = "resources"
 [[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
+    name = "Register"
+    identifier = "register"
     url = "/books"
     parent = "resources"
 
@@ -61,7 +61,7 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
-# copyright_notice = "Copyright 2016 [Matt Stratton](https://www.mattstrattion.io)"
+copyright_notice = "Copyright 2020 [Data Analytics Colloquium](https://www.datacolloquium.com)"
 # itunes_subscribe = "https://podcasts.apple.com/us/podcast/arrested-devops/id773888088?ign-mpt=uo%3D4&mt=2"
 # android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 # spotify_subscribe = "https://open.spotify.com/show/..."
@@ -87,10 +87,10 @@ description = "Data Analytics Colloquium is a public forum featuring internation
 #    itunes_second_sub_category = "Tech News"
 #    language = "en-us"
 
-#  [params.realfavicongenerator] # https://realfavicongenerator.net/
-#    mask_icon_color="#5bbad5"
-#   msapplication_tilecolor="#2b5797"
-#    theme_color="#ffffff"
+  [params.realfavicongenerator] # https://realfavicongenerator.net/
+    mask_icon_color="#5bbad5"
+   msapplication_tilecolor="#2b5797"
+    theme_color="#ffffff"
 
 #  [params.podlove] # https://subscribe-button.podlove.org
 #    subscribe_title = ""              # fallback: site title from above
@@ -111,7 +111,7 @@ description = "Data Analytics Colloquium is a public forum featuring internation
 #    facebook = ""
 #    facebook_admin = ["",""] # This needs to be one or more page admins to get domain insights
     twitter = "dacolloquium"
-    twitter_domain = "dacolloquium.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+#    twitter_domain = "dacolloquium.com" # This domain shows in twitter cards as "View on `twitter_domain`"
 #    googleplus = ""
 #    pinterest = ""
 #    instagram = ""
