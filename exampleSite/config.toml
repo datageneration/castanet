@@ -10,7 +10,7 @@ paginate = "9"
 [permalinks]
 	# page = "/:filename/"
 	about = "/:filename/"
-	seminar = "/:filename/"
+	episode = "/:filename/"
 
 
 # The theme supports menus with up to one submenu per menu item
