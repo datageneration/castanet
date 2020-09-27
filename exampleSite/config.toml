@@ -53,7 +53,7 @@ paginate = "9"
     parent = "resources"
 
 [params]
-mainSections = ["seminars"]
+mainSections = ["seminar"]
 site_theme = "blue"
 site_layout = "grid"
 # site_layout = "row"
