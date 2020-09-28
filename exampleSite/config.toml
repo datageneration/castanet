@@ -36,20 +36,22 @@ paginate = "9"
     identifier = "guests"
     url = "/guest"
 
-[[Menu.Main]]
-    name = "Register"
-    identifier = "register"
-    url = "#!"
+
 
 # [[Menu.Main]]
 #    name = "Books"
 #    identifier = "books"
 #    url = "/books"
 #    parent = "resources"
+
+[[Menu.Main]]
+    name = "Register"
+    identifier = "register"
+    url = "#!"
 [[Menu.Main]]
     name = "Register for Notification"
     identifier = "notification"
-    url = "/books"
+    url = "/"
     parent = "Register"
 
 [[Menu.Main]]
