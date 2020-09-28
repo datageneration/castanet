@@ -37,8 +37,8 @@ paginate = "9"
     url = "/guest"
 
 [[Menu.Main]]
-    name = "Resources"
-    identifier = "resources"
+    name = "Register"
+    identifier = "register"
     url = "#!"
 
 # [[Menu.Main]]
@@ -47,11 +47,16 @@ paginate = "9"
 #    url = "/books"
 #    parent = "resources"
 [[Menu.Main]]
-    name = "Register"
-    identifier = "register"
+    name = "Register for Notification"
+    identifier = "notification"
     url = "/books"
-    parent = "resources"
+    parent = "Register"
 
+[[Menu.Main]]
+    name = "Event Registration"
+    identifier = "eventregistration"
+    url = "/register"
+    parent = "Register"
 [params]
 mainSections = ["seminar"]
 site_theme = "blue"
