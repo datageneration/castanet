@@ -7,4 +7,4 @@ title = "about"
 
 ## Data Analytics Colloquium
 
-Introducing the latest in Data Science
+Introducing the latest in Data Science focusing on applications in social, political and policy sciences.
