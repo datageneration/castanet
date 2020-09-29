@@ -1,6 +1,6 @@
 baseurl = "https://dacolloquium.com/"
 languageCode = "en-us"
-title = "Data Analytics Colloquium"
+title = "<h2>Data Analytics Colloquium</h2>"
 theme = "castanet"
 googleAnalytics = ""
 themesdir = "../.."
