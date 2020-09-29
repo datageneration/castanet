@@ -52,13 +52,13 @@ paginate = "9"
     name = "Register for Notification"
     identifier = "notification"
     url = "/"
-    parent = "Register"
+    parent = "register"
 
 [[Menu.Main]]
     name = "Event Registration"
     identifier = "eventregistration"
     url = "/register"
-    parent = "Register"
+    parent = "register"
 [params]
 mainSections = ["seminar"]
 site_theme = "blue"
