@@ -60,7 +60,7 @@ paginate = "9"
     url = "/register"
     parent = "register"
 [params]
-mainSections = ["seminar"]
+mainSections = ["episode"]
 site_theme = "blue"
 site_layout = "grid"
 # site_layout = "row"
