@@ -5,7 +5,7 @@ After losing to Donald Trump in the 2016 presidential election Hillary Clinton f
 aliases = ["/1"]
 author = "Karl"
 categories = []
-date = "2020-09-25T04:10:01-05:00"
+date = "2016-09-25T04:10:01-05:00"
 episode = "11"
 episode_image = "img/guest/Harold_Clarke.jpg"
 #episode_banner = "img/episode/default-banner.jpg"
