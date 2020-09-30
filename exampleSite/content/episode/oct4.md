@@ -19,5 +19,5 @@ tags = []
 title = "Will Women Deny Trump a Second Term? Gender and the Political Economy of Presidential Approval"
 youtube = ""
 truncate = ""
-transcript = ""
+transcript = "/static/transcripts/chatops.txt"
 +++
