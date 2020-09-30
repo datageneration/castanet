@@ -79,6 +79,17 @@
         {{- end -}}
         <!-- transcript POC end -->
 
+      <!-- eventinfo POC begin-->
+        {{- with .Params.eventinfo -}}
+        <div class="row eventinfo">
+          <div class="col-md-12">
+            <h2>Event information</h2>
+            {{ (readFile .) | markdownify}}
+          </div>
+        </div>
+        {{- end -}}
+        <!-- eventinfo POC end -->
+
   <div class="row">
     <div class="col">
       <h2></h2>
