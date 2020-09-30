@@ -1,14 +1,14 @@
 +++
 Description = ""
-aliases = ["/1"]
-author = "Karl"
+aliases = ["/2"]
+author = "Achen"
 categories = []
 date = "2020-09-25T04:10:01-05:00"
-episode = "11"
+episode = "2"
 episode_image = "img/guest/Achen.jpg"
 #episode_banner = "img/episode/default-banner.jpg"
 explicit = "no"
-guests = ["hclarke"]
+guests = [""]
 sponsors = [""]
 images = ["img/guest/Achen.jpg"]
 news_keywords = []
