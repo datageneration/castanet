@@ -16,8 +16,8 @@ podcast_duration = ""
 podcast_file = ""
 podcast_bytes = ""
 tags = []
-title = "Studying Elections in an Era of Unrepresentative Surveys."
+title = "Studying Elections in an Era of Unrepresentative Surveys"
 youtube = ""
 truncate = ""
-transcript = ""
+#transcript = ""
 +++
