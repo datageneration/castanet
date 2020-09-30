@@ -44,21 +44,21 @@ paginate = "9"
 #    url = "/books"
 #    parent = "resources"
 
-[[Menu.Main]]
-    name = "Register"
-    identifier = "register"
-    url = "#!"
-[[Menu.Main]]
-    name = "Register for Notification"
-    identifier = "notification"
-    url = "/"
-    parent = "register"
+#[[Menu.Main]]
+#    name = "Register"
+#    identifier = "register"
+#    url = "#!"
+#[[Menu.Main]]
+#    name = "Register for Notification"
+#    identifier = "notification"
+#    url = "/"
+#    parent = "register"
 
-[[Menu.Main]]
-    name = "Event Registration"
-    identifier = "eventregistration"
-    url = "/register"
-    parent = "register"
+#[[Menu.Main]]
+#    name = "Event Registration"
+#    identifier = "eventregistration"
+#    url = "/register"
+#    parent = "register"
 [params]
 mainSections = ["episode"]
 site_theme = "blue"
