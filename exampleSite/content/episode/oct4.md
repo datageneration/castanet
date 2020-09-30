@@ -20,4 +20,5 @@ title = "Will Women Deny Trump a Second Term? Gender and the Political Economy o
 youtube = ""
 truncate = ""
 transcript = "/static/transcripts/chatops.txt"
+eventinfo = "/static/eventinfo/eventinfo1016.txt"
 +++
