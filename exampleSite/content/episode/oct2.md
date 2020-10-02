@@ -20,5 +20,5 @@ title = ""
 youtube = ""
 truncate = ""
 eventinfo = "/static/eventinfo/eventinfo1030.txt"
-#transcript = ""
+transcript = ""
 +++
