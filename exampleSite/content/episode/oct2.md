@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Dr. Larry Bartels, Vanderbilt University"
 aliases = ["/3"]
 author = "Bartels"
 categories = []
@@ -19,6 +19,6 @@ tags = []
 title = ""
 youtube = ""
 truncate = ""
-eventinfo = ""
+eventinfo = "/static/eventinfo/eventinfo1030.txt"
 #transcript = ""
 +++
