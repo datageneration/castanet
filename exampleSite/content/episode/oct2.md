@@ -1,7 +1,7 @@
 +++
 Description = "Dr. Larry Bartels, Vanderbilt University"
 aliases = ["/3"]
-author = ""
+author = "hclarke"
 categories = []
 date = "2020-09-25T04:10:01-05:00"
 episode = "3"
