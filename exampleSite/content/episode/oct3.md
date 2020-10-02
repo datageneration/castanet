@@ -20,5 +20,5 @@ title = "Studying Elections in an Era of Unrepresentative Surveys"
 youtube = ""
 truncate = ""
 eventinfo = "/static/eventinfo/eventinfo1023.txt"
-#transcript = ""
+transcript = ""
 +++
