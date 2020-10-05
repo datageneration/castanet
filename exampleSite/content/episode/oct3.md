@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = 'How can we measure voter transitions between elections?  It is standard to talk only about conversion and mobilization, but demobilization--voter dropout--also matters.  Unfortunately, all three measures of electoral change are customarily computed with different denominators, making it impossible to compare their relative magnitudes.  In this paper, we show how to compute these quantities comparably so that they add to the total vote change.  Then we apply these ideas to the 2016,  “Blue Wall” states—Wisconsin, Michigan, and Pennsylvania—which voted very narrowly for Donald Trump and made him president.   The calculation is not easy, primarily because surveys are seriously misleading about turnout while voter files provide no information about the voters’ choice of candidate. We show how to use those two data sources, along with actual vote returns, to resolve ongoing debates about whether Trump won via conversion, mobilization, or demobilization.'
 aliases = ["/2"]
 author = "Achen"
 categories = []
