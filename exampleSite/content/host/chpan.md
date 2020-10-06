@@ -15,3 +15,5 @@ YouTube = ""
 +++
 
 Peter Pan is cohost of Data Analytics Colloquium.
+
+Peter Ching-Heng Pan is Associate Professor and Director of the Graduate Institute of National Policy and Public Affairs, National Chung Hsing University in Taichung, Taiwan. 
