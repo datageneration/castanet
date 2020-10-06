@@ -2,7 +2,7 @@
 Title = "Karl Ho"
 date = "2020-09-23T20:55:58-06:00"
 Twitter = "karlho"
-Website = "karlho.com"
+Website = "https://karlho.com"
 Type = "host"
 Facebook = ""
 Linkedin = "karlho"
